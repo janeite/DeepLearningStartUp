@@ -1,4 +1,3 @@
-import re
 from collections import Counter
 #读入文档
 article = open("./happiness_seg.txt").read()
